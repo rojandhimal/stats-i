@@ -1,0 +1,25 @@
+{
+  "name": "@rojandhimal/stats-i",
+  "version": "1.0.0",
+  "description": "stat packages for csit students\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojandhimal/stats-i.git"
+  },
+  "keywords": [
+    "stat",
+    "stat1",
+    "packages",
+    "node"
+  ],
+  "author": "Rojan Dhimal <rojandhimal1@gmail.com> (https://medium.com/@rojandhimal)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojandhimal/stats-i/issues"
+  },
+  "homepage": "https://github.com/rojandhimal/stats-i#readme"
+}
